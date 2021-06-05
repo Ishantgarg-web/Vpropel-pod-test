@@ -7,4 +7,4 @@ Daily problems solutions in Java and python.
 20 May 2021- Minimum No of Bits Required.
 02 June 2021- Check Shuffled Sentence.  
 03 June 2021- Lexicographically Ordered Sentences.
-
+05 June 2021- Swap Details Entered.
